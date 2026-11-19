@@ -35,3 +35,9 @@ logs/*.json
 # OS files
 .DS_Store
 Thumbs.db
+
+# CIC-IDS2017 dataset files
+dataset/**/*.csv
+dataset/**/*.zip
+dataset/**/*.pcap
+dataset/**/*.pcapng
